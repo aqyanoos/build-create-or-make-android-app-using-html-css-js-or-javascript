@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Tahoma, Arial;
+    font-size: 16px;
+    background: #eee;
+    line-height: 25px;
+    letter-spacing: 1px;
+}
+
+header,
+footer {
+    background-color: #005050;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    line-height: 35px;
+}
+
+.main {
+    padding: 10px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 10px;
+}
+
+nav a {
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.current {
+    background: #008cff;
+    color: white;
+}
