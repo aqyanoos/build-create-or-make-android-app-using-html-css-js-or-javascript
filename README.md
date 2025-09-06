@@ -4,7 +4,7 @@ This is a perfect template or project for building Android apps with HTML CSS an
 
 > Watch The Full Course [here](https://youtu.be/_aOpiRiaUak?feature=shared)
 
-> Link to my YouTube Channel [Coding Aqyanoos](https://www.youtube.com/@CodingAqyanoos)
+> Link to my YouTube Channel [Aqyanoos](https://www.youtube.com/@Aqyanoos)
 
 > Link to my website [https://aqyanoos.com](https://aqyanoos.com)
 
